@@ -1,0 +1,516 @@
+{
+  "settings": {
+    "name": "NewSite-01-08_1111",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "Sleek",
+      "title": "Sleek",
+      "styling": {}
+    },
+    "versionFirst": "3.10.4",
+    "uniqCompNum": 104,
+    "versionPublish": "3.10.4"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "alias": "sleek/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "footer1-h",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@ADDONS_PATH@/sleek/components/_images/photo-3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "© 2016. &nbsp;All rights reserved. Designed by Myxpress"
+        },
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#0899ff"
+            },
+            "&.mbr-navbar--auto-collapse.mbr-navbar--open .mbr-navbar__menu": {
+              "background": "#0899ff"
+            },
+            ".mbr-navbar__section": {
+              "background": "#0899ff"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-navbar__items a": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "14px"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "32px"
+            }
+          },
+          "alias": "sleek/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-12",
+          "_params": {
+            "color": "#0899ff",
+            "hamburgerColor": "#ffffff",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": false,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Sleek",
+              "link": "https://mobirise.com"
+            }
+          },
+          "brand": "<a data-app-btn=\"true\" class=\"navbar-brand text-success\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-rocket mbr-iconfont mbr-iconfont-btn\"></span>Myxpress Hub</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\"><span class=\"mbri-like mbr-iconfont mbr-iconfont-btn\"></span>Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\"><span class=\"mbri-like mbr-iconfont mbr-iconfont-btn\"></span>Hosting</a></li>   ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-secondary-outline\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
+        },
+        {
+          "alias": "sleek/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            "H2": {
+              "color": "#3498db"
+            },
+            "P": {
+              "color": "#000000",
+              "font-size": "16px",
+              "text-align": "center",
+              "font-family": "'Josefin Sans', sans-serif",
+              "googleLink": "<link href='https://fonts.googleapis.com/css?family=Josefin+Sans:300,400italic,600' rel='stylesheet' type='text/css'>"
+            }
+          },
+          "_anchor": "header1-1a",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1458862768540-8b091824fe2d-2000x1330-55.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222222",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "Welkom op myxpress Hub!",
+          "text": "U kunt hier wat info zien over hoe bouw ik een website!<br>ff een les geven :)",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-primary\" href=\"#\" data-toolbar=\"-mbrBtnMove\"></a>"
+        },
+        {
+          "alias": "sleek/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#3498db"
+            },
+            ".lead P": {
+              "color": "#222222"
+            },
+            ".lead": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "msg-box4-2n",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "parallax": false,
+            "bgImage": "@ADDONS_PATH@/sleek/components/_images/bg/2.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000000",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Hoe maak ik een goede blog zelf??",
+          "text": "Dat Is Makelijk dan dat je het denkt! je kunt altijd ervoor kiezen om op basic niveu tegaan! wat ik ermee wil zegen is dat je dan deze Hostings moet hebben (WIX) (WEEBLY) (SIMPLESITE) Gemakelijk Bouwen zoals jij dat wilt je kunt er ook voor kiezen om een membership aan te maken zoals. weebly premium met dat krijg je gratis Domain en geen reclames!",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-left btn-white\" href=\"https://info.com\" target=\"_blank\">Info door (hyperial combat :P)</a>",
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "@PROJECT_PATH@/assets/images/photo-4.png"
+            },
+            "video": {
+              "active": false,
+              "src": "https://www.youtube.com/watch?v=fo1T_DkeSqY",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          }
+        },
+        {
+          "alias": "sleek/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#3498db"
+            },
+            ".lead P": {
+              "color": "#000000"
+            },
+            ".lead": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "msg-box4-2o",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "parallax": false,
+            "bgImage": "@ADDONS_PATH@/sleek/components/_images/bg/2.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000000",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Hoe maak ik een wordpress website?",
+          "text": "Dat is Hoger niveu je moet een host hebben hier ik hep een link voor je naar een gratis hosting website <a href=\"https://www.000webhost.com/\">Klik op mij</a>&nbsp;Ben je er? maak een account. aan en login je kunt zien create a website klik erop en kies wordpress en volg de stappen<br>Klaar daarmee? dan kun je verder je woord. naar je wordpress site panel gestuurd Dus onthoud je login! je kunt een thema kopen bij envato themes voor example volg youtube tips van iemand die engels is of gewoon. nederlands en ook bij 000webhost kun je kiezen voor een premium membership voor gratis domain en premium thema's. have fun",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-left btn-white\" href=\"https://info.com\">info door (hyperial combat slayer :D)</a>",
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1461749280684-dccba630e2f6-1618x1080-14.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=fo1T_DkeSqY",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          }
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "alias": "sleek/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_styles": {
+            "P": {
+              "color": "#3498db"
+            }
+          },
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 2,
+            "paddingBottom": 0,
+            "slides": [
+              {
+                "title": "Slide 1",
+                "contentAlign": "right",
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/15826479-385366095143492-4483089021559931421-n-2000x2003-28.jpg",
+                "showText": true,
+                "text": "Myxpress eindelijk het kan ge published worden! khep er zin in :)",
+                "showCite": true,
+                "cite": "- Hyperial Combat :P<span>Myxpress / Admin / Developer / Info</span>"
+              },
+              {
+                "title": "Slide 1",
+                "contentAlign": "right",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/sbo-logo-no-text-2000x1996-57.png",
+                "showText": true,
+                "text": "Wou het maken was moeilijk maar het was het waard! succes met het surfen van onze website!",
+                "showCite": true,
+                "cite": "- Hyperial Slayer :D<span>Myxpress / designer / Helper</span>"
+              }
+            ],
+            "bgColor": "#ffffff",
+            "showBullets": true
+          },
+          "_anchor": "slider-2m",
+          "articleLayout": false
+        },
+        {
+          "title4": "UNLIMITED WEBSITES",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "",
+          "alias": "sleek/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            ".service-content span": {
+              "color": "#fa5b0f",
+              "border": "2px solid #fa5b0f"
+            },
+            ".service-content:hover span": {
+              "background-color": "#fa5b0f",
+              "border": "2px solid #fa5b0f",
+              "color": "white"
+            },
+            "P": {
+              "color": "#000000"
+            },
+            "H4": {
+              "color": "#3498db"
+            }
+          },
+          "_anchor": "content1-28",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgImageRadio": false,
+            "parallax": false,
+            "bgImage": "@ADDONS_PATH@/sleek/components/_images/bg/2.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000000",
+            "columns": 3,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": false,
+            "iconsColor": "#fa5b0f",
+            "showIcons": true,
+            "icon1": "fa fa-hdd-o",
+            "icon2": "fa fa-hdd-o",
+            "icon3": "fa fa-hdd-o"
+          },
+          "title1": "Wij blijven Up to data!",
+          "caption1": "Wij updaten iederekeer de website als het nodig is!",
+          "button1": "<a data-app-btn=\"true\" href=\"#\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-secondary-outline\">Learn More <i class=\"fa fa-angle-right\"></i></a>",
+          "title2": "Bij ons ben je veilig!",
+          "caption2": "Op onze website bevinden zich geen vieze reclames dus geen gezeik en geen virusen!<br>Zo wel neem contact Op",
+          "button2": "<a data-app-btn=\"true\" href=\"#\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-secondary-outline\">Learn More <i class=\"fa fa-angle-right\"></i></a>",
+          "title3": "We zijn er altijd",
+          "caption3": "Wij blijven Online!",
+          "button3": "<a data-app-btn=\"true\" href=\"#\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-secondary-outline\">Learn More <i class=\"fa fa-angle-right\"></i></a>"
+        },
+        {
+          "alias": "sleek/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content3",
+          "_styles": {
+            "H2": {
+              "color": "#3498db",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content3-1i",
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "Dont you know to make designs or website we can help you!",
+          "subTitle": "With myxpress you can learn to build a website and others!"
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {},
+      "components": [
+        {
+          "alias": "sleek/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content3",
+          "_styles": {
+            "H2": {
+              "color": "#3498db"
+            }
+          },
+          "_anchor": "content3-2v",
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "Download het documentje om de hostings lijstje te kunnen zien!",
+          "subTitle": "Een document / downloads"
+        },
+        {
+          "alias": "sleek/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-2u",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"http://download942.mediafire.com/luebl56rt1qg/u9u049lpducnmve/Myxpress+help.rar\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD WEB HOSTING LINKS DOCUMENT</a> "
+        },
+        {
+          "alias": "sleek/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "footer1-2p",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@ADDONS_PATH@/sleek/components/_images/photo-3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "© 2016. &nbsp;All rights reserved. Designed by Myxpress"
+        },
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#0899ff"
+            },
+            "&.mbr-navbar--auto-collapse.mbr-navbar--open .mbr-navbar__menu": {
+              "background": "#0899ff"
+            },
+            ".mbr-navbar__section": {
+              "background": "#0899ff"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-navbar__items a": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "14px"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "32px"
+            }
+          },
+          "alias": "sleek/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-2q",
+          "_params": {
+            "color": "#0899ff",
+            "hamburgerColor": "#ffffff",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": false,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Sleek",
+              "link": "https://mobirise.com"
+            }
+          },
+          "brand": "<a data-app-btn=\"true\" class=\"navbar-brand text-success\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-rocket mbr-iconfont mbr-iconfont-btn\"></span>Myxpress Hub</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\"><span class=\"mbri-like mbr-iconfont mbr-iconfont-btn\"></span>Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\"><span class=\"mbri-like mbr-iconfont mbr-iconfont-btn\"></span>Hosting</a></li>   ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-secondary-outline\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
+        }
+      ]
+    }
+  }
+}

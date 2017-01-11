@@ -1,0 +1,107 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(<link href='https://fonts.googleapis.com/css?family=Josefin+Sans:300,400italic,600' rel='stylesheet' type='text/css'>);
+
+
+#footer1-h P {
+  color: #000000;
+}
+#menu-12 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-12.mbr-navbar--stuck .mbr-navbar__section {
+  background: #0899ff;
+}
+#menu-12.mbr-navbar--auto-collapse.mbr-navbar--open .mbr-navbar__menu {
+  background: #0899ff;
+}
+#menu-12 .mbr-navbar__section {
+  background: #0899ff;
+}
+#menu-12 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-12 .mbr-navbar__items a {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 14px;
+}
+#menu-12 .mbr-brand__name a {
+  font-size: 32px;
+}
+#header1-1a H2 {
+  color: #3498db;
+}
+#header1-1a P {
+  color: #000000;
+  font-size: 16px;
+  text-align: center;
+  font-family: 'Josefin Sans', sans-serif;
+}
+#msg-box4-2n .mbr-section-title {
+  color: #3498db;
+}
+#msg-box4-2n .lead P {
+  color: #222222;
+}
+#msg-box4-2n .lead {
+  color: #000000;
+}
+#msg-box4-2o .mbr-section-title {
+  color: #3498db;
+}
+#msg-box4-2o .lead P {
+  color: #000000;
+}
+#msg-box4-2o .lead {
+  color: #000000;
+}
+#slider-2m P {
+  color: #3498db;
+}
+#content1-28 .service-content span {
+  color: #fa5b0f;
+  border: 2px solid #fa5b0f;
+}
+#content1-28 .service-content:hover span {
+  background-color: #fa5b0f;
+  border: 2px solid #fa5b0f;
+  color: white;
+}
+#content1-28 P {
+  color: #000000;
+}
+#content1-28 H4 {
+  color: #3498db;
+}
+#content3-1i H2 {
+  color: #3498db;
+  text-align: center;
+}
+
+#content3-2v H2 {
+  color: #3498db;
+}
+#footer1-2p P {
+  color: #000000;
+}
+#menu-2q .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-2q.mbr-navbar--stuck .mbr-navbar__section {
+  background: #0899ff;
+}
+#menu-2q.mbr-navbar--auto-collapse.mbr-navbar--open .mbr-navbar__menu {
+  background: #0899ff;
+}
+#menu-2q .mbr-navbar__section {
+  background: #0899ff;
+}
+#menu-2q .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-2q .mbr-navbar__items a {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 14px;
+}
+#menu-2q .mbr-brand__name a {
+  font-size: 32px;
+}
